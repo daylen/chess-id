@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+caffe*
+crops*
+output*
+pictures*
+failed_crop
+labels.txt
